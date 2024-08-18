@@ -1,0 +1,22 @@
+body{
+    background-image: url('img/Background.jpg');
+    background-size: cover;
+}
+.grid{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.square{
+    height: 148px;
+    width: 147px;
+    border: solid black 1.5px;
+    background-color: wheat;
+}
+.mole{
+    background-image: url('img/mole.png');
+    background-size: cover;
+}
