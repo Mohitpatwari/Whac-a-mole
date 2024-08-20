@@ -39,7 +39,7 @@ function countDown(){
         gameOver.play()
         clearInterval(countDownTimerId)
         clearInterval(timerId)
-        alert('Game Over! Your final result is: '+result)
+        
     }
 }
 
@@ -48,4 +48,4 @@ function moveMole(){
 }
 
 moveMole()
-let countDownTimerId= setInterval(countDown,400)
+let countDownTimerId= setInterval(countDown,1000)
