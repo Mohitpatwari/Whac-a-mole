@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/whac-a-mole-game.git
+git clone https://github.com/mohitpatwari/whac-a-mole-game.git
 Navigate to the Project Directory:
 
 bash
